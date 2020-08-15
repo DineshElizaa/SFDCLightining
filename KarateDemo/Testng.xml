@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Test">	
+	<test name="API &amp; UI Test Cases">
+		<classes>			
+			<class name="com.infy.autoqa.karatex.Testscripts.ui.AccountTest"></class></classes>
+	</test>	
+</suite>
